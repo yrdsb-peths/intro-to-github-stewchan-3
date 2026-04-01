@@ -1,6 +1,7 @@
 public class Spaceship {
     private String name;
     private int speed;
+    private int hp;
 
     public Spaceship(String name, int speed) {
         this.name = name;
