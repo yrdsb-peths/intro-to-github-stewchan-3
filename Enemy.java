@@ -3,4 +3,6 @@ public class Enemy {
     private int speed;
     private int hp;
 
+    private int xp;
+
 }
